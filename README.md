@@ -27,6 +27,7 @@
 
 ## 目录结构
 + SSC.ipynb 与 NER.ipynb 为两个中文NLP任务包含对抗训练方法的运行脚本
++ report中有Final PJ的论文报告。
 + config.py是一些参数, initializer.py是一些模型初始化代码和类、函数的定义
 + Runner.py 中封装了对于各种训练方法的Runner类
 + FGM.py PGD.py FreeLB.py 中为 插件式 对抗训练的代码实现
